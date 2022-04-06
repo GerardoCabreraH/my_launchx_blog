@@ -1,5 +1,5 @@
 ---
-title: "Mi ruta de aprendizaje en LaunchX"
+title: "Mi ruta de aprendizaje de Launchx"
 date: 2022-03-01
 description: 'Les contare mi ruta de aprendizaje de LaunchX de Innovaccion Virtual'
 ---
