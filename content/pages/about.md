@@ -9,13 +9,11 @@ menu:
 
 Hola, aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+Mi nombre es Gerardo Cabrera.
+Naci en San Nicolas de los Garza Nuevo León México, pero vivo actualmente en Monterrey Nuevo León México.
+Estudie Ingeniería en Tecnologías Computacionales en la Universidad CNCI de México.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
-
+**Descripción** Soy una persona que siempre busco la solución de un probleme que me presenta una persona
+Primero estudio el entorno para luego ver el problema y 
+después busco la solución mas simple pero la más completa posible para cubrir
+la necesidad de la persona.
