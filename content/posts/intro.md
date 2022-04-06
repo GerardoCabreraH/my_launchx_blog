@@ -6,8 +6,7 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 
 ## La cultura en el desarrollo de software
 
-Segun el diccionario Oxford es *Conjunto de conocimientos e ideas no especializados adquiridos gracias al desarrollo de las facultades intelectuales, mediante la lectura, el estudio y el trabajo.
-*. En el desarrollo de software se especializa en la resolución de problemas y aplicarlos mediante un sistema creado con un software. Un desarrollador de software adquiere conocimientos y mejora sus habilidades conforme crea un sistema y asi se crea una estandarización profesional. 
+Segun el diccionario Oxford es *Conjunto de conocimientos e ideas no especializados adquiridos gracias al desarrollo de las facultades intelectuales, mediante la lectura, el estudio y el trabajo*. En el desarrollo de software se especializa en la resolución de problemas y aplicarlos mediante un sistema creado con un software. Un desarrollador de software adquiere conocimientos y mejora sus habilidades conforme crea un sistema y asi se crea una estandarización profesional. 
 
 Una de las practicas mas cotidianas en el desarrollo de software es :
 
