@@ -11,7 +11,7 @@ Te invito a conocer mis aprendizajes y leer mis experiencias.
 
 ### Mis expectativas son
 
-- Aprender y profundizarme en Git y Github
-- Aplicar mis conocimientos de Frontend mediante JavaScript
-- Diseñar aplicaciones web mediante el Backend Javascript
-- Compartir mis conocimientos
+* Aprender y profundizarme en Git y Github
+* Aplicar mis conocimientos de Frontend mediante JavaScript
+* Diseñar aplicaciones web mediante el Backend Javascript
+* Compartir mis conocimientos
